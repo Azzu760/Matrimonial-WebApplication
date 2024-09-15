@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Local environment variables
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+
+# Ignore any generated files by lint or prettier
+.eslintcache
+.prettierignore
